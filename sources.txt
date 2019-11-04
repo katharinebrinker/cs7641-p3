@@ -1,0 +1,63 @@
+https://scikit-learn.org/stable/auto_examples/decomposition/plot_ica_blind_source_separation.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FastICA.html
+
+https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e
+
+https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
+
+https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+
+https://towardsdatascience.com/machine-learning-algorithms-part-9-k-means-example-in-python-f2ad05ed5203
+
+http://benalexkeen.com/k-means-clustering-in-python/
+
+https://www.kaggle.com/charel/learn-by-example-expectation-maximization
+
+https://github.com/mcdickenson/em-gaussian
+
+https://scikit-learn.org/stable/modules/generated/sklearn.random_projection.GaussianRandomProjection.html
+
+https://towardsdatascience.com/linear-discriminant-analysis-in-python-76b8b17817c2
+
+https://ro-che.info/articles/2017-12-11-pca-explained-variance
+
+https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html
+
+https://www.jimmyjoseph.co.uk/svm-wine/
+
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_mutual_info_score.html
+
+https://scikit-learn.org/stable/modules/mixture.html
+
+https://towardsdatascience.com/dimension-reduction-techniques-with-python-f36ca7009e5c
+
+https://www.geeksforgeeks.org/python-pandas-dataframe-kurt/
+
+https://scikit-learn.org/stable/modules/random_projection.html
+
+https://www.oreilly.com/library/view/hands-on-unsupervised-learning/9781492035633/ch04.html
+
+https://sebastianraschka.com/Articles/2014_python_lda.html#principal-component-analysis-vs-linear-discriminant-analysis
+
+https://stackoverflow.com/questions/26963454/lda-ignoring-n-components
+
+https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html
+
+
+
+
+had a better time with 
+py -m pip install --upgrade 
+instead of 
+pip install
+because my python setup is garbage
+
+python >3.5 (used 3.7)
+numpy
+scipy
+pandas
+sklearn
+

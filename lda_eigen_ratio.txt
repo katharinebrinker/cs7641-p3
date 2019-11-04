@@ -1,0 +1,96 @@
+C:\Users\Katharine\AppData\Local\Programs\Python\Python37-32\python.exe C:/Users/Katharine/Code/ML/Assignment3/lda.py
+Wine data head (Pre-Reduction): 
+               0
+0 -1.112008e+14
+1 -1.112008e+14
+2 -1.112008e+14
+3  6.363705e+13
+4 -1.112008e+14
+Explained variance: 
+ [1.00000000e+00 5.93994137e-30 1.23898531e-30 4.53659891e-31
+ 2.37247581e-31]
+Heart data head (Pre-Reduction): 
+               0
+0  3.221487e+14
+1  3.221487e+14
+2  3.221487e+14
+3  3.221487e+14
+4  3.221487e+14
+Explained variance: 
+ [1.]
+-------  1  components -----------
+Explained variance (wine): 
+ [1.]
+Explained variance (heart): 
+ [1.]
+-------  2  components -----------
+Explained variance (wine): 
+ [1.00000000e+00 5.91570263e-30]
+C:\Users\Katharine\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\discriminant_analysis.py:466: ChangedBehaviorWarning: n_components cannot be larger than min(n_features, n_classes - 1). Using min(n_features, n_classes - 1) = min(14, 2 - 1) = 1 components.
+  ChangedBehaviorWarning)
+Explained variance (heart): 
+ [1.]
+-------  3  components -----------
+Explained variance (wine): 
+ [1.00000000e+00 5.91570263e-30 1.24322051e-30]
+C:\Users\Katharine\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\discriminant_analysis.py:466: ChangedBehaviorWarning: n_components cannot be larger than min(n_features, n_classes - 1). Using min(n_features, n_classes - 1) = min(14, 2 - 1) = 1 components.
+  ChangedBehaviorWarning)
+Explained variance (heart): 
+ [1.]
+-------  4  components -----------
+Explained variance (wine): 
+ [1.00000000e+00 5.91570263e-30 1.24322051e-30 2.43158025e-31]
+C:\Users\Katharine\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\discriminant_analysis.py:466: ChangedBehaviorWarning: n_components cannot be larger than min(n_features, n_classes - 1). Using min(n_features, n_classes - 1) = min(14, 2 - 1) = 1 components.
+  ChangedBehaviorWarning)
+Explained variance (heart): 
+ [1.]
+-------  5  components -----------
+Explained variance (wine): 
+ C:\Users\Katharine\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\discriminant_analysis.py:466: ChangedBehaviorWarning: n_components cannot be larger than min(n_features, n_classes - 1). Using min(n_features, n_classes - 1) = min(14, 2 - 1) = 1 components.
+  ChangedBehaviorWarning)
+[1.00000000e+00 5.91570263e-30 1.24322051e-30 2.43158025e-31
+ 1.86279044e-31]
+Explained variance (heart): 
+ [1.]
+-------  6  components -----------
+C:\Users\Katharine\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\discriminant_analysis.py:466: ChangedBehaviorWarning: n_components cannot be larger than min(n_features, n_classes - 1). Using min(n_features, n_classes - 1) = min(12, 6 - 1) = 5 components.
+  ChangedBehaviorWarning)
+C:\Users\Katharine\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\discriminant_analysis.py:466: ChangedBehaviorWarning: n_components cannot be larger than min(n_features, n_classes - 1). Using min(n_features, n_classes - 1) = min(14, 2 - 1) = 1 components.
+  ChangedBehaviorWarning)
+Explained variance (wine): 
+ [1.00000000e+00 5.91570263e-30 1.24322051e-30 2.43158025e-31
+ 1.86279044e-31]
+C:\Users\Katharine\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\discriminant_analysis.py:466: ChangedBehaviorWarning: n_components cannot be larger than min(n_features, n_classes - 1). Using min(n_features, n_classes - 1) = min(12, 6 - 1) = 5 components.
+  ChangedBehaviorWarning)
+Explained variance (heart): 
+ [1.]
+-------  7  components -----------
+Explained variance (wine): 
+ [1.00000000e+00 5.91570263e-30 1.24322051e-30 2.43158025e-31
+ 1.86279044e-31]
+C:\Users\Katharine\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\discriminant_analysis.py:466: ChangedBehaviorWarning: n_components cannot be larger than min(n_features, n_classes - 1). Using min(n_features, n_classes - 1) = min(14, 2 - 1) = 1 components.
+  ChangedBehaviorWarning)
+C:\Users\Katharine\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\discriminant_analysis.py:466: ChangedBehaviorWarning: n_components cannot be larger than min(n_features, n_classes - 1). Using min(n_features, n_classes - 1) = min(12, 6 - 1) = 5 components.
+  ChangedBehaviorWarning)
+Explained variance (heart): 
+ [1.]
+-------  8  components -----------
+Explained variance (wine): 
+ [1.00000000e+00 5.91570263e-30 1.24322051e-30 2.43158025e-31
+ 1.86279044e-31]
+C:\Users\Katharine\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\discriminant_analysis.py:466: ChangedBehaviorWarning: n_components cannot be larger than min(n_features, n_classes - 1). Using min(n_features, n_classes - 1) = min(14, 2 - 1) = 1 components.
+  ChangedBehaviorWarning)
+Explained variance (heart): 
+ [1.]
+-------  9  components -----------
+C:\Users\Katharine\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\discriminant_analysis.py:466: ChangedBehaviorWarning: n_components cannot be larger than min(n_features, n_classes - 1). Using min(n_features, n_classes - 1) = min(12, 6 - 1) = 5 components.
+  ChangedBehaviorWarning)
+C:\Users\Katharine\AppData\Local\Programs\Python\Python37-32\lib\site-packages\sklearn\discriminant_analysis.py:466: ChangedBehaviorWarning: n_components cannot be larger than min(n_features, n_classes - 1). Using min(n_features, n_classes - 1) = min(14, 2 - 1) = 1 components.
+  ChangedBehaviorWarning)
+Explained variance (wine): 
+ [1.00000000e+00 5.91570263e-30 1.24322051e-30 2.43158025e-31
+ 1.86279044e-31]
+Explained variance (heart): 
+ [1.]
+
+Process finished with exit code 0

@@ -1,0 +1,139 @@
+
+[5 rows x 11 columns]
+-------  1  components -----------
+Wine data kurtosis: 
+ 0    0.318811
+dtype: float64
+Heart data kurtosis: 
+ 0   -0.674524
+dtype: float64
+-------  2  components -----------
+Wine data kurtosis: 
+ 0    2.224992
+1   -0.411515
+dtype: float64
+Heart data kurtosis: 
+ 0   -0.120688
+1   -0.765851
+dtype: float64
+-------  3  components -----------
+Wine data kurtosis: 
+ 0    0.908784
+1   -0.775275
+2    3.199716
+dtype: float64
+Heart data kurtosis: 
+ 0   -0.014888
+1   -0.773689
+2   -0.049693
+dtype: float64
+-------  4  components -----------
+Wine data kurtosis: 
+ 0     4.303580
+1     1.070020
+2    31.394704
+3    -0.726584
+dtype: float64
+Heart data kurtosis: 
+ 0    0.435650
+1    0.443118
+2   -0.567466
+3   -0.878664
+dtype: float64
+-------  5  components -----------
+Wine data kurtosis: 
+ 0    18.093928
+1     1.084163
+2    34.581662
+3    -0.673964
+4     1.069729
+dtype: float64
+Heart data kurtosis: 
+ 0   -0.896647
+1   -0.765793
+2    0.888733
+3    1.252808
+4   -0.079652
+dtype: float64
+-------  6  components -----------
+Wine data kurtosis: 
+ 0     3.291092
+1    38.595991
+2    -0.593217
+3     0.837865
+4     1.089976
+5    18.056490
+dtype: float64
+Heart data kurtosis: 
+ 0    1.878249
+1    1.217026
+2   -0.916716
+3   -0.918768
+4   -0.455322
+5   -0.910034
+dtype: float64
+-------  7  components -----------
+Wine data kurtosis: 
+ 0     1.229214
+1    -0.589595
+2     3.673477
+3     0.215288
+4    25.317952
+5     3.527504
+6    42.360548
+dtype: float64
+Heart data kurtosis: 
+ 0   -0.309632
+1    1.360234
+2   -0.954356
+3   -1.249559
+4    1.117444
+5   -1.100859
+6    1.156142
+dtype: float64
+-------  8  components -----------
+Wine data kurtosis: 
+ 0    -0.763105
+1     1.271375
+2     1.773219
+3    45.783535
+4     0.177498
+5    17.996316
+6    29.609150
+7     2.890077
+dtype: float64
+Heart data kurtosis: 
+ 0   -0.706342
+1   -1.007775
+2    1.757175
+3    0.653786
+4   -1.335141
+5    1.181315
+6    3.532391
+7   -1.054929
+dtype: float64
+-------  9  components -----------
+Wine data kurtosis: 
+ 0    30.016010
+1    45.725511
+2     1.906870
+3     1.802307
+4    -0.277695
+5    19.725346
+6    -0.794780
+7     2.158048
+8     5.315690
+dtype: float64
+Heart data kurtosis: 
+ 0   -1.277906
+1    0.432154
+2    1.832737
+3   -1.086745
+4   -1.115765
+5   -0.316896
+6    4.988675
+7    1.513481
+8    1.750389
+dtype: float64
+
+Process finished with exit code 0
