@@ -30,14 +30,24 @@ the following files:
  - rp.py
  - lda.py
 
+
+RUNNING -- CLUSTERING
+--------------
 Clustering algorithms are run on all data sets using:
 
  - kmeans.py
  - em.py
 
+
+RUNNING -- NEURAL NETWORKS
+--------------
 The neural network training is done in:
 
  - NeuralNetwork.py
+
+The clusters-as-a-feature training is in:
+ - cluster_nn_kmeans.py
+ - cluster_nn_em.py
 
 
 
